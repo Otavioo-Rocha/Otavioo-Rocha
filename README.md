@@ -18,11 +18,14 @@
  </div>
 
 ##
-  
-  <div align="center">
-  <a href = "http://www.otaviorocha608@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">    </a>
+<div align="center">
+  <a href = "http://www.otaviorocha608@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/otavio-rocha1017" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+  <a href="https://discord.Otávio_Rocha#6311" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+ </a> 
+ </div> 
+ 
+ ##
 
 ![snake gif](https://github.com/Otavioo-Rocha/Otavioo-Rocha/blob/output/github-contribution-grid-snake.svg)
 
