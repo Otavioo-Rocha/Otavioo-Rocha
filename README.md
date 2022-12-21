@@ -1,5 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
 
+<div align="center" ><img width="100%" alt="Code" src="https://github.com/Otavioo-Rocha/Otavioo-Rocha/blob/main/header.png"></div>
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=HELLO!!,+MY+NAME+is+Otávio+Rocha;I'm+26+years+old;I+from+Brasil,+SP;I+study+systems+analysis+and+development+at+UNINOVE;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
