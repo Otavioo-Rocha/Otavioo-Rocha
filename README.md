@@ -17,17 +17,24 @@
 ##
 
 <div align="center">
-<h2>:bulb: Languages & Frameworks</h2>
+:bulb: Languages & Frameworks
 <div style="display: inline_block"><br>
   <img align="center" alt="Formando -HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Formando-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Formando-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
   <img align="center" alt="Formando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-           
-</div>
  </div>
+ </div><br>
+ 
+ <div align="center">
+:bulb: code versioning
+<div style="display: inline_block"><br>
+  <img align="center" alt="Formando -HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Formando -HTML" height="30" width="40"" src="https://cdn-icons-png.flaticon.com/512/733/733553.png">
+ </div>
+ </div><br>
+ 
 
-##
 <div align="center">
   <a href = "http://www.otaviorocha608@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/otavio-rocha1017" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
