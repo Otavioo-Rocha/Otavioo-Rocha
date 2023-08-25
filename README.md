@@ -24,7 +24,8 @@
   <img align="center" alt="Formando-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
   <img align="center" alt="Formando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  </div>
- </div><br>
+ </div>
+ <br>
  
  <div align="center">
 :bulb: code versioning
