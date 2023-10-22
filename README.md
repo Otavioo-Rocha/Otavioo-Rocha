@@ -44,7 +44,7 @@
  
  ##
 
-![Snake animation](https://github.com/Otavioo-Rocha/Otavioo-Rocha/blob/output/github-contribution-grid-snake.svg)
+
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
